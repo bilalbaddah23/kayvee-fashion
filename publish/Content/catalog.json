@@ -1,0 +1,218 @@
+{
+  "brand": "Kayvee Fashion",
+  "contactMode": "whatsapp",
+  "phone": "96181695614",
+  "displayPhone": "+961 81 695 614",
+  "instagram": "https://www.instagram.com/kayveefashion/",
+  "hours": "Confirm opening hours and visiting details with the team",
+  "hero": "/images/collection-01.jpg",
+  "story": "/images/collection-02.jpg",
+  "galleryImages": [
+    "/images/collection-03.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-01.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-12.jpg",
+    "/images/collection-13.jpg",
+    "/images/collection-02.jpg"
+  ],
+  "products": [
+    {
+      "id": "neutral-tailoring-edit",
+      "name": "Neutral Tailoring Edit",
+      "collection": "Tailored looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light neutral blazer and trouser reference shown on the boutique’s clothing rail, with another colour view. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included.",
+      "notes": [],
+      "price": 39,
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg",
+        "/images/collection-02.jpg"
+      ],
+      "source": "https://www.instagram.com/kayveefashion/p/Df1rHcejgpy/"
+    },
+    {
+      "id": "clasp-tailored-edit",
+      "name": "Clasp Tailored Edit",
+      "collection": "Tailored looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Chocolate and navy styling references with gold-tone clasp details at the waist. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included.",
+      "notes": [],
+      "price": 39,
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "/images/collection-03.jpg",
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/kayveefashion/reel/Dfwo7ZmgQ0J/"
+    },
+    {
+      "id": "pinstripe-tailored-edit",
+      "name": "Pinstripe Tailored Edit",
+      "collection": "Tailored looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Dark and grey pinstripe tailoring presented in a two-look styling image. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included.",
+      "notes": [],
+      "price": 39,
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/kayveefashion/reel/DfhkHZqOcOO/"
+    },
+    {
+      "id": "cream-tailored-look",
+      "name": "Cream Tailored Look",
+      "collection": "Tailored looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light cream blazer and matching trouser silhouette shown with casual shoes. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included.",
+      "notes": [],
+      "price": 39,
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/kayveefashion/reel/DfoeIc1B2mW/"
+    },
+    {
+      "id": "navy-double-breasted-look",
+      "name": "Navy Double-Breasted Look",
+      "collection": "Tailored looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A navy double-breasted blazer and coordinated lower layer shown in a mirror styling reference. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included.",
+      "notes": [],
+      "price": 39,
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/kayveefashion/reel/Df1pUVoOMzr/"
+    },
+    {
+      "id": "pale-grey-tailored-look",
+      "name": "Pale Grey Tailored Look",
+      "collection": "Tailored looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light grey tailored silhouette with a white inner layer. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included.",
+      "notes": [],
+      "price": 39,
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/kayveefashion/reel/Df1nUKtOKix/"
+    },
+    {
+      "id": "brown-jacket-edit",
+      "name": "Brown Jacket Edit",
+      "collection": "Jackets & layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown buttoned jacket styling reference. Ask the team about the composition and exact reference. The source image lists $35. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included.",
+      "notes": [],
+      "price": 35,
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/kayveefashion/p/Dfz2yuFANcN/"
+    },
+    {
+      "id": "butterfly-knit-look",
+      "name": "Butterfly Knit Look",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark button-front knit layer with butterfly motifs and a coordinated lower layer. Material is confirmed by the boutique. The source image lists $25. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included.",
+      "notes": [],
+      "price": 25,
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/kayveefashion/reel/DfzjwZMg5Az/"
+    },
+    {
+      "id": "burgundy-tailored-look",
+      "name": "Burgundy Tailored Look",
+      "collection": "Tailored looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy tailored silhouette with gold-tone fastening details. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included.",
+      "notes": [],
+      "price": 39,
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "/images/collection-11.jpg"
+      ],
+      "source": "https://www.instagram.com/kayveefashion/reel/Dfy-_7eB4t9/"
+    },
+    {
+      "id": "ivory-tailored-look",
+      "name": "Ivory Tailored Look",
+      "collection": "Tailored looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "An ivory blazer and wide-leg trouser styling reference. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included.",
+      "notes": [],
+      "price": 39,
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "/images/collection-12.jpg"
+      ],
+      "source": "https://www.instagram.com/kayveefashion/reel/DfyxOuHhibo/"
+    },
+    {
+      "id": "black-tailored-look",
+      "name": "Black Tailored Look",
+      "collection": "Tailored looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark tailored silhouette with gold-tone fastening details. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included.",
+      "notes": [],
+      "price": 39,
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "/images/collection-13.jpg"
+      ],
+      "source": "https://www.instagram.com/kayveefashion/reel/Dfw6mZtAalk/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}

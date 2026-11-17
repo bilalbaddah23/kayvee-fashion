@@ -1,0 +1,41 @@
+{
+  "result": "PASS",
+  "brand": "Kayvee Fashion",
+  "businessFlow": "retail-collection-enquiry",
+  "checks": [
+    "All page/example routes: HTTP200, one H1, unique IDs, security/noindex headers and correct brand",
+    "All internal links, scripts/styles/fonts and image assets return200",
+    "Server search/reversed terms, category filter, empty state and HTML encoding",
+    "Unknown/private paths404, retail routes absent on manufacturer, health, gzip and versioned asset caching",
+    "Published39USD reference: two items78USD; client line price and total tampering ignored",
+    "Correct contact and brand; draft only, no false order; server validation rejects tampering, bad inputs, missing CSRF, malformed JSON/null and wrong content type",
+    "Per-IP enquiry rate limit429"
+  ],
+  "routes": [
+    "/",
+    "/shop",
+    "/saved",
+    "/our-world",
+    "/contact",
+    "/privacy",
+    "/lookbook",
+    "/style-guide",
+    "/bag",
+    "/checkout",
+    "/product/neutral-tailoring-edit",
+    "/product/clasp-tailored-edit",
+    "/product/pinstripe-tailored-edit",
+    "/product/cream-tailored-look",
+    "/product/navy-double-breasted-look",
+    "/product/pale-grey-tailored-look",
+    "/product/brown-jacket-edit",
+    "/product/butterfly-knit-look",
+    "/product/burgundy-tailored-look",
+    "/product/ivory-tailored-look",
+    "/product/black-tailored-look"
+  ],
+  "products": 11,
+  "internalAssetsAndLinks": 42,
+  "images": 13,
+  "scope": "Local compiled ASP.NET10 release. No messages sent, orders placed, payments or VPS load test."
+}

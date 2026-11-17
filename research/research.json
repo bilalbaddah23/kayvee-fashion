@@ -1,0 +1,404 @@
+{
+  "brand": "Kayvee Fashion",
+  "handle": "kayveefashion",
+  "instagram": "https://www.instagram.com/kayveefashion/",
+  "contactMode": "whatsapp",
+  "phone": "96181695614",
+  "displayPhone": "+961 81 695 614",
+  "hours": "Confirm opening hours and visiting details with the team",
+  "followersObserved": null,
+  "followersDisplay": "59.5K",
+  "latestVisiblePost": "2026-11-17",
+  "researchDate": "2026-11-17",
+  "profileBio": "• Stylish\n• Casual\n• Fashionable. 🛵24–48 Hr Delivery | All Over Lebanon 🇱🇧 🇦🇪\n📱 WhatsApp: 81 695 614 | Direct Order Below 👇",
+  "bioLinks": [
+    "https://api.whatsapp.com/send?phone=96181695614"
+  ],
+  "branches": [],
+  "heroImage": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/native-hero.jpg",
+  "storyImage": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/native-detail.jpg",
+  "galleryImages": [
+    "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-01.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-02.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-03.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-04.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/native-hero.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-06.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-07.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-08.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-09.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-10.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-11.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-12.jpg",
+    "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/native-detail.jpg"
+  ],
+  "products": [
+    {
+      "id": "neutral-tailoring-edit",
+      "name": "Neutral Tailoring Edit",
+      "category": "Tailored looks",
+      "price": 39,
+      "priceEvidence": {
+        "amount": 39,
+        "currency": "USD",
+        "sourcePost": "https://www.instagram.com/kayveefashion/p/Df1rHcejgpy/",
+        "basis": "Readable price label in the business’s public image",
+        "observedDate": "2026-11-17"
+      },
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/native-hero.jpg",
+        "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/native-detail.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/kayveefashion/p/Df1rHcejgpy/",
+      "description": "A light neutral blazer and trouser reference shown on the boutique’s clothing rail, with another colour view. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included."
+    },
+    {
+      "id": "clasp-tailored-edit",
+      "name": "Clasp Tailored Edit",
+      "category": "Tailored looks",
+      "price": 39,
+      "priceEvidence": {
+        "amount": 39,
+        "currency": "USD",
+        "sourcePost": "https://www.instagram.com/kayveefashion/reel/Dfwo7ZmgQ0J/",
+        "basis": "Readable price label in the business’s public image",
+        "observedDate": "2026-11-17"
+      },
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-01.jpg",
+        "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/Dfwo7ZmgQ0J/",
+      "description": "Chocolate and navy styling references with gold-tone clasp details at the waist. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included."
+    },
+    {
+      "id": "pinstripe-tailored-edit",
+      "name": "Pinstripe Tailored Edit",
+      "category": "Tailored looks",
+      "price": 39,
+      "priceEvidence": {
+        "amount": 39,
+        "currency": "USD",
+        "sourcePost": "https://www.instagram.com/kayveefashion/reel/DfhkHZqOcOO/",
+        "basis": "Readable price label in the business’s public image",
+        "observedDate": "2026-11-17"
+      },
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/DfhkHZqOcOO/",
+      "description": "Dark and grey pinstripe tailoring presented in a two-look styling image. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included."
+    },
+    {
+      "id": "cream-tailored-look",
+      "name": "Cream Tailored Look",
+      "category": "Tailored looks",
+      "price": 39,
+      "priceEvidence": {
+        "amount": 39,
+        "currency": "USD",
+        "sourcePost": "https://www.instagram.com/kayveefashion/reel/DfoeIc1B2mW/",
+        "basis": "Readable price label in the business’s public image",
+        "observedDate": "2026-11-17"
+      },
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/DfoeIc1B2mW/",
+      "description": "A light cream blazer and matching trouser silhouette shown with casual shoes. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included."
+    },
+    {
+      "id": "navy-double-breasted-look",
+      "name": "Navy Double-Breasted Look",
+      "category": "Tailored looks",
+      "price": 39,
+      "priceEvidence": {
+        "amount": 39,
+        "currency": "USD",
+        "sourcePost": "https://www.instagram.com/kayveefashion/reel/Df1pUVoOMzr/",
+        "basis": "Readable price label in the business’s public image",
+        "observedDate": "2026-11-17"
+      },
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/Df1pUVoOMzr/",
+      "description": "A navy double-breasted blazer and coordinated lower layer shown in a mirror styling reference. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included."
+    },
+    {
+      "id": "pale-grey-tailored-look",
+      "name": "Pale Grey Tailored Look",
+      "category": "Tailored looks",
+      "price": 39,
+      "priceEvidence": {
+        "amount": 39,
+        "currency": "USD",
+        "sourcePost": "https://www.instagram.com/kayveefashion/reel/Df1nUKtOKix/",
+        "basis": "Readable price label in the business’s public image",
+        "observedDate": "2026-11-17"
+      },
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/Df1nUKtOKix/",
+      "description": "A light grey tailored silhouette with a white inner layer. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included."
+    },
+    {
+      "id": "brown-jacket-edit",
+      "name": "Brown Jacket Edit",
+      "category": "Jackets & layers",
+      "price": 35,
+      "priceEvidence": {
+        "amount": 35,
+        "currency": "USD",
+        "sourcePost": "https://www.instagram.com/kayveefashion/p/Dfz2yuFANcN/",
+        "basis": "Readable price label in the business’s public image",
+        "observedDate": "2026-11-17"
+      },
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/kayveefashion/p/Dfz2yuFANcN/",
+      "description": "A brown buttoned jacket styling reference. Its composition and brand authenticity are not independently established. The source image lists $35. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included."
+    },
+    {
+      "id": "butterfly-knit-look",
+      "name": "Butterfly Knit Look",
+      "category": "Knitwear",
+      "price": 25,
+      "priceEvidence": {
+        "amount": 25,
+        "currency": "USD",
+        "sourcePost": "https://www.instagram.com/kayveefashion/reel/DfzjwZMg5Az/",
+        "basis": "Readable price label in the business’s public image",
+        "observedDate": "2026-11-17"
+      },
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/DfzjwZMg5Az/",
+      "description": "A dark button-front knit layer with butterfly motifs and a coordinated lower layer. Material is confirmed by the boutique. The source image lists $25. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included."
+    },
+    {
+      "id": "burgundy-tailored-look",
+      "name": "Burgundy Tailored Look",
+      "category": "Tailored looks",
+      "price": 39,
+      "priceEvidence": {
+        "amount": 39,
+        "currency": "USD",
+        "sourcePost": "https://www.instagram.com/kayveefashion/reel/Dfy-_7eB4t9/",
+        "basis": "Readable price label in the business’s public image",
+        "observedDate": "2026-11-17"
+      },
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/Dfy-_7eB4t9/",
+      "description": "A burgundy tailored silhouette with gold-tone fastening details. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included."
+    },
+    {
+      "id": "ivory-tailored-look",
+      "name": "Ivory Tailored Look",
+      "category": "Tailored looks",
+      "price": 39,
+      "priceEvidence": {
+        "amount": 39,
+        "currency": "USD",
+        "sourcePost": "https://www.instagram.com/kayveefashion/reel/DfyxOuHhibo/",
+        "basis": "Readable price label in the business’s public image",
+        "observedDate": "2026-11-17"
+      },
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/DfyxOuHhibo/",
+      "description": "An ivory blazer and wide-leg trouser styling reference. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included."
+    },
+    {
+      "id": "black-tailored-look",
+      "name": "Black Tailored Look",
+      "category": "Tailored looks",
+      "price": 39,
+      "priceEvidence": {
+        "amount": 39,
+        "currency": "USD",
+        "sourcePost": "https://www.instagram.com/kayveefashion/reel/Dfw6mZtAalk/",
+        "basis": "Readable price label in the business’s public image",
+        "observedDate": "2026-11-17"
+      },
+      "sizes": [
+        "Confirm size with the boutique"
+      ],
+      "images": [
+        "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/Dfw6mZtAalk/",
+      "description": "A dark tailored silhouette with gold-tone fastening details. The source image lists $39. Confirm the current price, size, exact included garments and availability with the team. Ask for current item photographs and measurements before ordering; styling accessories are not automatically included."
+    }
+  ],
+  "about": "Discover Kayvee Fashion’s public collection imagery and build a personal shortlist. The boutique welcomes direct WhatsApp enquiries and lists delivery across Lebanon.",
+  "activityEvidence": "Own public posts dated November17,2026, visible on the profile and native carousel post.",
+  "websiteCheck": {
+    "result": "Expanded current biography has only direct WhatsApp ordering. Handle/name/Lebanon search returned the matching Instagram and Facebook pages, without a matching official shop. An unlisted website cannot be ruled out.",
+    "checkedDate": "2026-11-17",
+    "queries": [
+      "\"kayveefashion\" website Lebanon"
+    ],
+    "sources": [
+      "https://www.instagram.com/kayveefashion/"
+    ]
+  },
+  "imageProvenance": [
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/892917878_1615586382991851_3947415191250183331_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=f_Jg23LwNwMQ7kNvwF_FkjD&_nc_oc=Adrsed8rrXAogbIdWbnYC_HhjLJgGQ3nyaTXnZgc5eE0IJTrtmJiIso6Z46i_tLELDA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7lTI6aojjLZrTtfY0NLO9g&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQFB52BUCVhm290TiNTVGLoLTrLG6IiRZDfxIDCfALs6Q&oe=6B0268EA",
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/Dfwo7ZmgQ0J/",
+      "alt": "Video by Kayvee Fashion on November 15, 2026. May be an image of blazer, suit and text.",
+      "sourceImageType": "Native public Reel cover still",
+      "width": 361,
+      "height": 640
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/885805719_18044786324844290_919650740451258495_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=XF9d1mecxcAQ7kNvwG8qUeI&_nc_oc=Ado4j6bPPKzPW4jFVZQ07hRpWe3LlsxgsMg4TMpezUctV7z4BKk6pNkKM-H_2_7l69A&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7lTI6aojjLZrTtfY0NLO9g&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRbndiJm_3cvpp2u1RM1Zu-ye4EUImSGJj6B17RagIOBg&oe=6B0276DF",
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/DfhkHZqOcOO/",
+      "alt": "Video by Kayvee Fashion on November 09, 2026. May be an image of one or more people, overcoat, suit, blazer and text.",
+      "sourceImageType": "Native public Reel cover still",
+      "width": 360,
+      "height": 640
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/894385349_18045136748844290_3036164964883040783_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=XYzBzGeLy7YQ7kNvwFWB04E&_nc_oc=AdoZFpS3QrQBsWFAWEULwecEgw_v0ukaLKA-xz6AVybGBvM-Do31tfFOX0J5hKC5ZfY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7lTI6aojjLZrTtfY0NLO9g&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQJdq326Htl5LCx4KW_dW7O9Y494RrJ1df7Y-5BxeLb6Q&oe=6B027DE7",
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/DfoeIc1B2mW/",
+      "alt": "Video by Kayvee Fashion on November 11, 2026. May be an image of overcoat, suit, blazer and text.",
+      "sourceImageType": "Native public Reel cover still",
+      "width": 360,
+      "height": 640
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/907212631_18045988400844290_3731876370900429604_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=a97bgdCXQvsQ7kNvwGg8CP2&_nc_oc=AdqqaQLhtSgZs38Y0b8yevcbO5zZzkeWmEBvqRjIiBpXQJeE8uRSuAQ2lGAlIoZTjVQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7lTI6aojjLZrTtfY0NLO9g&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRwyYjctLUqMJQHMKhGLpJsZfEd-YK-Euvb3jGarBzjgw&oe=6B0286CD",
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/Df2FL-NuoGD/",
+      "alt": "Video by Kayvee Fashion on November 17, 2026. May be an image of one or more people, makeup, suit, dress, blazer and text.",
+      "sourceImageType": "Native public Reel cover still",
+      "width": 360,
+      "height": 640
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/native-hero.jpg",
+      "sourceUrl": "https://instagram.fbey15-1.fna.fbcdn.net/v/t51.82787-15/906156713_18045963806844290_3493280942622336383_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMjMxODQ2NzU3Nzg5MDg2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI4NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ShZKCpJZclcQ7kNvwGZ7D-9&_nc_oc=Adqm0dxbIQDpSIpKXKARgn_5TXNpId6MtU3jS1tzimSYVP7sQwPaohm4F60_xewa9-U&_nc_zt=23&_nc_ht=instagram.fbey15-1.fna&_nc_gid=XoBQWyTDEbBURpRPTNj-Zw&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTcYqbzrjuvrcHVqulc3i3O31QWUlZ-y02r_Mlpr7w-Qg&oe=6B026D31",
+      "sourcePost": "https://www.instagram.com/kayveefashion/p/Df1rHcejgpy/",
+      "alt": "Photo by Kayvee Fashion on November 17, 2026. May be an image of overcoat, clothes hanger, blazer, suit, rack and text.",
+      "width": 1284,
+      "height": 1712,
+      "sourceImageType": "Native public photo still",
+      "aiLabelObserved": true
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/905062336_18045962504844290_6602209093335814804_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=--y7AwVZgxcQ7kNvwGV9pmF&_nc_oc=Ado7yZoj4J9zHetPoKCQV02yaKYaPSK_8M-kwBZonv35jw8LggibIRldBew8yJBnhx8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7lTI6aojjLZrTtfY0NLO9g&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQR_C19cM1g0rcxgQGpZuFVa6WrMp4UC28oOaWePh3Sdgw&oe=6B028A9A",
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/Df1pUVoOMzr/",
+      "alt": "Video by Kayvee Fashion on November 17, 2026. May be an image of blazer, suit, jacket, top and text.",
+      "sourceImageType": "Native public Reel cover still",
+      "width": 360,
+      "height": 640
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/904935157_18045959963844290_4428198288064658823_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=pZj1KMP4mwkQ7kNvwGiQlzy&_nc_oc=AdoA4bp3es--7WT6367pb8-dtK1R7vvPTf_q4fgur2RfTYFQdsvbY9RY2-dZqb-5jGw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7lTI6aojjLZrTtfY0NLO9g&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQSlV7b1wd55k5Y_hOMZ_kSRrI7-3_l-WGXiHpAbPtuqFg&oe=6B026454",
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/Df1nUKtOKix/",
+      "alt": "Video by Kayvee Fashion on November 17, 2026. May be an image of suit, dress, blazer and text.",
+      "sourceImageType": "Native public Reel cover still",
+      "width": 360,
+      "height": 640
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/912355490_18045857360844290_900847868828004009_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Grf74Erip3YQ7kNvwEgnfG6&_nc_oc=AdqoQJdKkBezqgviwFD33vVwQ5o31vpWHzGNs5KjNpg1INyr1nmszI6G6Mto7xHLO1U&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7lTI6aojjLZrTtfY0NLO9g&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQQa8kHAuew9bXEu89qSlnHkvsXVHznNlbMfvJqfwjYsjw&oe=6B0277EC",
+      "sourcePost": "https://www.instagram.com/kayveefashion/p/Dfz2yuFANcN/",
+      "alt": "Photo by Kayvee Fashion on November 16, 2026.",
+      "sourceImageType": "Native public photo still",
+      "width": 480,
+      "height": 640
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/907037337_18045833618844290_6757072939951587801_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qAgmj22BocYQ7kNvwGBm1jk&_nc_oc=AdrtkStTXqUZgLCgPWDXyU66GKZ4KoKrmRCP4J05enfipzuIf7UW-aqqkdzOtu8G1pE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7lTI6aojjLZrTtfY0NLO9g&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQhxyK08ml4M-G5C5J-PwedOyx9j-M10xQvOjjc7TGEBA&oe=6B0292ED",
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/DfzjwZMg5Az/",
+      "alt": "Video by Kayvee Fashion on November 16, 2026. May be an image of sleepwear, top, cardigan, jumpsuit and text.",
+      "sourceImageType": "Native public Reel cover still",
+      "width": 360,
+      "height": 640
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910317767_18045590057844290_9058344022277716896_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=q-7OdEK0LNwQ7kNvwHFkfjI&_nc_oc=AdpSY8dmS9Ix3uU9XmzB_Fxr4M3OYNXx8M38Yzj8OgCpfHPvypMSCPm4AgIosciD9KY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7lTI6aojjLZrTtfY0NLO9g&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQa3Ua-_lOJEbj3jNeWZfjnkqNdJ-BtOjPFFCZ_kln6-w&oe=6B028481",
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/Dfy-_7eB4t9/",
+      "alt": "Video by Kayvee Fashion on November 16, 2026. May be an image of suit, blazer and text.",
+      "sourceImageType": "Native public Reel cover still",
+      "width": 360,
+      "height": 640
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910317764_18045793100844290_2709341306254904671_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Vyr5JB-ebZsQ7kNvwF1yJQ9&_nc_oc=AdqiFFrH0M232Hqs-YriWwLetSYG_St79GutMZ2Miy3ZuKAPRtKX4giMvi6A7U4KU9Q&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7lTI6aojjLZrTtfY0NLO9g&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQSCEP7kBKsJq2x7s4CZjNPDXm23mDThLJuXHx5k569LJg&oe=6B026CB4",
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/DfyxOuHhibo/",
+      "alt": "Video by Kayvee Fashion on November 15, 2026. May be an image of one or more people, suit, blazer, dress and text.",
+      "sourceImageType": "Native public Reel cover still",
+      "width": 360,
+      "height": 640
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/source-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/902585917_18045668186844290_2441889025345754237_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KS4-diXmmKcQ7kNvwHo3s0E&_nc_oc=Ado3Hc3JQRRlNnOAu2q_SxBUJUT_tAE6F5k3-KhvoDPui_bxMt3T8VlMfd-mZm8yU1M&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7lTI6aojjLZrTtfY0NLO9g&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRtRIv5xiZNq_WyhFaXesBG_JHoY1mIRVR5dBkOOvrn8w&oe=6B026745",
+      "sourcePost": "https://www.instagram.com/kayveefashion/reel/Dfw6mZtAalk/",
+      "alt": "Video by Kayvee Fashion on November 15, 2026. May be an image of dinner jacket, blazer, suit and text.",
+      "sourceImageType": "Native public Reel cover still",
+      "width": 360,
+      "height": 640
+    },
+    {
+      "path": "C:/Projects/prospect-research/nov17-fashion-build2/kayvee-fashion/assets/native-detail.jpg",
+      "sourceUrl": "https://instagram.fbey15-1.fna.fbcdn.net/v/t51.82787-15/902503369_18045963818844290_1850451258432830182_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMjMxODQ2OTEwNDU1NzgyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI4NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=AlkbrsBB8vgQ7kNvwGSbpcb&_nc_oc=Adq29ynBxJ9d56EzICMWiF_w3-KhStpZf1UYMe-psAbPpMUnvZfQdXyXX6_ZGxLi0MQ&_nc_zt=23&_nc_ht=instagram.fbey15-1.fna&_nc_gid=XoBQWyTDEbBURpRPTNj-Zw&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRfmUNzJTwETWuPBuDagZCQTzyDGveKvI5RFwTgpRrpJQ&oe=6B027EB9",
+      "sourcePost": "https://www.instagram.com/kayveefashion/p/Df1rHcejgpy/",
+      "alt": "Photo by Kayvee Fashion on November 17, 2026. May be an image of duffle coat, overcoat, clothes hanger, blazer, suit and text.",
+      "width": 1284,
+      "height": 1712,
+      "sourceImageType": "Native public carousel photo still",
+      "aiLabelObserved": true
+    }
+  ],
+  "imageNotes": "13 unique public-source stills: eleven selected grid images including native Reel covers and two native carousel photos replacing the equivalent lower-resolution grid image. No frames extracted or imagery generated in this build. Source native carousel explicitly displays an AI content label. Origin of other source media is not independently established; describe as collection imagery/styling references, not verified real-world product photography. Posted prices25/35/39USD are retained from readable source labels and need owner confirmation. No authenticity, textile composition, stock or fit claims invented."
+}

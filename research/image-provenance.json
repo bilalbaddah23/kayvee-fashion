@@ -1,0 +1,171 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\kayvee-fashion\\assets\\native-hero.jpg",
+    "sha256": "50f13b22a0776a5645c1342ffbfb6631ae26ad83e3e6a483422674c6031578e2",
+    "originalDimensions": [
+      1284,
+      1712
+    ],
+    "webDimensions": [
+      1275,
+      1700
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\kayvee-fashion\\assets\\native-detail.jpg",
+    "sha256": "5aa0c7e9bfd54610025ab8fb9150f698cd54dabe9520d7ff9b8e89393fdccae9",
+    "originalDimensions": [
+      1284,
+      1712
+    ],
+    "webDimensions": [
+      1275,
+      1700
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\kayvee-fashion\\assets\\source-01.jpg",
+    "sha256": "31490371465a9a162a65572615fe4b7feb7ad378584d810a9c32213b224a6d10",
+    "originalDimensions": [
+      361,
+      640
+    ],
+    "webDimensions": [
+      361,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\kayvee-fashion\\assets\\source-04.jpg",
+    "sha256": "087629b84060f044458bb5904993c4624ccdc995f54a296b94d5e79ec6c6a2c1",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\kayvee-fashion\\assets\\source-02.jpg",
+    "sha256": "2f65e940257add55b27863b1f492ba764d9bd94f395a38633dbbe65638b79f2e",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\kayvee-fashion\\assets\\source-03.jpg",
+    "sha256": "75368ee87c5e46ac107ecbb61235acf582b73cf31caafa69404ab8bc7f2ee19a",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\kayvee-fashion\\assets\\source-06.jpg",
+    "sha256": "70b7cc27870865167b7ef999b1da4d2878add9f7063717efda1d07841d084d80",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\kayvee-fashion\\assets\\source-07.jpg",
+    "sha256": "098d291e6e1228ace3f0b7cd4fab29ac8f22e4bab19665ead6d66a20a7768d54",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\kayvee-fashion\\assets\\source-08.jpg",
+    "sha256": "b79f653bd59acda6375d9ebb1561db40055fdc53dce40d363c74a4657dd9baab",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\kayvee-fashion\\assets\\source-09.jpg",
+    "sha256": "f80fedad421971425c6ec5716fbaa2987a7b6e8b3514159757857f8dbfdcd668",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-11.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\kayvee-fashion\\assets\\source-10.jpg",
+    "sha256": "3f008ab809fce98fd8fe20bf2d6e1120bf0275d4cdcbde996a6e6601076fb9fd",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-12.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\kayvee-fashion\\assets\\source-11.jpg",
+    "sha256": "36e82a333a62e65600e1c207d43e877378d2193459fdda3f6936dd4b4f74ff32",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-13.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov17-fashion-build2\\kayvee-fashion\\assets\\source-12.jpg",
+    "sha256": "846a7b15df847ce04c81542b47be0f1ecffa93e02142b5ed5ef474b34d7e282b",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  }
+]
